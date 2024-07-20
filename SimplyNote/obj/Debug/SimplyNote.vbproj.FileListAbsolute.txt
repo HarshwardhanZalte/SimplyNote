@@ -1,0 +1,32 @@
+D:\NotePad\SimplyNote\SimplyNote\bin\Debug\SimplyNote.exe.config
+D:\NotePad\SimplyNote\SimplyNote\bin\Debug\SimplyNote.exe
+D:\NotePad\SimplyNote\SimplyNote\bin\Debug\SimplyNote.pdb
+D:\NotePad\SimplyNote\SimplyNote\bin\Debug\SimplyNote.xml
+D:\NotePad\SimplyNote\SimplyNote\obj\Debug\SimplyNote.vbprojAssemblyReference.cache
+D:\NotePad\SimplyNote\SimplyNote\obj\Debug\SimplyNote.Resources.resources
+D:\NotePad\SimplyNote\SimplyNote\obj\Debug\SimplyNote.vbproj.GenerateResource.cache
+D:\NotePad\SimplyNote\SimplyNote\obj\Debug\SimplyNote.vbproj.CoreCompileInputs.cache
+D:\NotePad\SimplyNote\SimplyNote\obj\Debug\SimplyNote.exe
+D:\NotePad\SimplyNote\SimplyNote\obj\Debug\SimplyNote.xml
+D:\NotePad\SimplyNote\SimplyNote\obj\Debug\SimplyNote.pdb
+D:\NotePad\SimplyNote\SimplyNote\obj\Debug\SimplyNote.SimplyNote.resources
+D:\NotePad\SimplyNote\SimplyNote\bin\Debug\SimplyNote.exe.manifest
+D:\NotePad\SimplyNote\SimplyNote\bin\Debug\SimplyNote.application
+D:\NotePad\SimplyNote\SimplyNote\obj\Debug\SimplyNote.exe.manifest
+D:\NotePad\SimplyNote\SimplyNote\obj\Debug\SimplyNote.application
+D:\Studyyy\GAD MP\NotePad\SimplyNote\SimplyNote\bin\Debug\SimplyNote.exe.config
+D:\Studyyy\GAD MP\NotePad\SimplyNote\SimplyNote\bin\Debug\SimplyNote.exe.manifest
+D:\Studyyy\GAD MP\NotePad\SimplyNote\SimplyNote\bin\Debug\SimplyNote.application
+D:\Studyyy\GAD MP\NotePad\SimplyNote\SimplyNote\bin\Debug\SimplyNote.exe
+D:\Studyyy\GAD MP\NotePad\SimplyNote\SimplyNote\bin\Debug\SimplyNote.pdb
+D:\Studyyy\GAD MP\NotePad\SimplyNote\SimplyNote\bin\Debug\SimplyNote.xml
+D:\Studyyy\GAD MP\NotePad\SimplyNote\SimplyNote\obj\Debug\SimplyNote.vbprojAssemblyReference.cache
+D:\Studyyy\GAD MP\NotePad\SimplyNote\SimplyNote\obj\Debug\SimplyNote.SimplyNote.resources
+D:\Studyyy\GAD MP\NotePad\SimplyNote\SimplyNote\obj\Debug\SimplyNote.Resources.resources
+D:\Studyyy\GAD MP\NotePad\SimplyNote\SimplyNote\obj\Debug\SimplyNote.vbproj.GenerateResource.cache
+D:\Studyyy\GAD MP\NotePad\SimplyNote\SimplyNote\obj\Debug\SimplyNote.vbproj.CoreCompileInputs.cache
+D:\Studyyy\GAD MP\NotePad\SimplyNote\SimplyNote\obj\Debug\SimplyNote.exe.manifest
+D:\Studyyy\GAD MP\NotePad\SimplyNote\SimplyNote\obj\Debug\SimplyNote.application
+D:\Studyyy\GAD MP\NotePad\SimplyNote\SimplyNote\obj\Debug\SimplyNote.exe
+D:\Studyyy\GAD MP\NotePad\SimplyNote\SimplyNote\obj\Debug\SimplyNote.xml
+D:\Studyyy\GAD MP\NotePad\SimplyNote\SimplyNote\obj\Debug\SimplyNote.pdb
